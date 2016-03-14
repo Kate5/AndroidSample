@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kate/Downloads/backendless-codegen 5/oi-Codegen/libs/backendless.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd9ed1e4060d54d4ef4a221fc587298fb23d10ad">
+        <dex dex="/Users/kate/Downloads/backendless-codegen 5/oi-Codegen/oi-Login/build/intermediates/pre-dexed/release/backendless-48ef18ec7f423f09395b32f47ff787fcf8bd599f.jar" />
+    </item>
+
+</items>
